@@ -1,5 +1,5 @@
 Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8
-Date,Opponent,Score,fg,pct,3pt,pct,pts
+Date,Opponent,Score,fg,fg_pct,3pt,3pt_pct,pts
 Oct 15 #,at St. Thomas University, ,-,-,-,-,-
 Oct 19 #,at Barry University, ,-,-,-,-,-
 Oct 23 #,Ft. Lauderdale University, ,-,-,-,-,-
